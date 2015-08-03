@@ -1,4 +1,4 @@
-#include "Failure.h"
+#include "cpulFailure.h"
 
 Failure::Failure(
     std::string theCondition,

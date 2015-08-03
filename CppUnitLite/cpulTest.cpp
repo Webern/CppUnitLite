@@ -1,6 +1,6 @@
-#include "Test.h"
-#include "TestRegistry.h"
-#include "TestResult.h"
+#include "cpulTest.h"
+#include "cpulTestRegistry.h"
+#include "cpulTestResult.h"
 
 Test::Test (const std::string& testName,
             std::string fileName,

@@ -1,5 +1,5 @@
-#include "TestResult.h"
-#include "Failure.h"
+#include "cpulTestResult.h"
+#include "cpulFailure.h"
 #include <iostream>
 
 TestResult::TestResult()

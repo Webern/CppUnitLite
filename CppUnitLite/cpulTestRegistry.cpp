@@ -1,6 +1,6 @@
-#include "Test.h"
-#include "TestResult.h"
-#include "TestRegistry.h"
+#include "cpulTest.h"
+#include "cpulTestResult.h"
+#include "cpulTestRegistry.h"
 #include <iostream>
 
 void TestRegistry::addTest (Test *test) 

@@ -1,4 +1,4 @@
-#include "TestHarness.h"
+#include "cpulTestHarness.h"
 
 // include the header file for the class you are testing.
 
