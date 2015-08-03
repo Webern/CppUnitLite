@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C79B3F2B-A605-4ED6-94D0-D91D477E80DB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CppUnitLite</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>81AFAB50-6BE6-4DE4-9DEE-36875378A0EA</key>
+		<string>https://github.com/Webern/CppUnitLite.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CppUnitLite.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>81AFAB50-6BE6-4DE4-9DEE-36875378A0EA</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Webern/CppUnitLite.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>81AFAB50-6BE6-4DE4-9DEE-36875378A0EA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>81AFAB50-6BE6-4DE4-9DEE-36875378A0EA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CppUnitLite</string>
+		</dict>
+	</array>
+</dict>
+</plist>
