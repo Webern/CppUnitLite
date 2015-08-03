@@ -13,6 +13,7 @@
 		29BB7A5E1B6F2BF600ED3133 /* cpulTestRegistry.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 29BB7A561B6F2BF600ED3133 /* cpulTestRegistry.cpp */; };
 		29BB7A5F1B6F2BF600ED3133 /* cpulTestResult.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 29BB7A581B6F2BF600ED3133 /* cpulTestResult.cpp */; };
 		29BB7A601B6F2BF600ED3133 /* Test001.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 29BB7A5A1B6F2BF600ED3133 /* Test001.cpp */; };
+		29BB7A661B6F2E5000ED3133 /* cpulRun.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 29BB7A641B6F2E5000ED3133 /* cpulRun.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -40,6 +41,8 @@
 		29BB7A581B6F2BF600ED3133 /* cpulTestResult.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = cpulTestResult.cpp; sourceTree = SOURCE_ROOT; };
 		29BB7A591B6F2BF600ED3133 /* cpulTestResult.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = cpulTestResult.h; sourceTree = SOURCE_ROOT; };
 		29BB7A5A1B6F2BF600ED3133 /* Test001.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Test001.cpp; sourceTree = SOURCE_ROOT; };
+		29BB7A641B6F2E5000ED3133 /* cpulRun.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = cpulRun.cpp; sourceTree = SOURCE_ROOT; };
+		29BB7A651B6F2E5000ED3133 /* cpulRun.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = cpulRun.h; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +75,8 @@
 		2901538E1B6F2AAB00BD8523 /* CppUnitLite */ = {
 			isa = PBXGroup;
 			children = (
+				29BB7A641B6F2E5000ED3133 /* cpulRun.cpp */,
+				29BB7A651B6F2E5000ED3133 /* cpulRun.h */,
 				29BB7A501B6F2BF600ED3133 /* cpulFailure.cpp */,
 				29BB7A511B6F2BF600ED3133 /* cpulFailure.h */,
 				29BB7A521B6F2BF600ED3133 /* Main.cpp */,
@@ -138,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				29BB7A661B6F2E5000ED3133 /* cpulRun.cpp in Sources */,
 				29BB7A5D1B6F2BF600ED3133 /* cpulTest.cpp in Sources */,
 				29BB7A5C1B6F2BF600ED3133 /* Main.cpp in Sources */,
 				29BB7A5E1B6F2BF600ED3133 /* cpulTestRegistry.cpp in Sources */,

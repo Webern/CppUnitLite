@@ -1,22 +1,10 @@
-#include "cpulTestHarness.h"
-#include <iostream>
+#include "cpulRun.h"
 
 
 int main()
 {
-	// random number generator used in some tests
-	srand(::time_t(NULL));
-
-    TestResult tr;
-    TestRegistry::runAllTests(tr);
-
-    // force console screen to hold
-	if ( false )
-    {
-        char ch;
-        std::cin >> ch;
-    }
-    
-
+    bool runTests = true;
+    bool holdConsole = false;
+	cpulRun( runTests, holdConsole );
     return 0;
 }
